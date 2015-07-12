@@ -1,4 +1,4 @@
 SpringBasics-Java
 =================
 
-Spring core concepts with java based configurations
+Sample spring core concepts with java based configurations
